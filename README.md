@@ -7,4 +7,4 @@
 #step4: create a connection between jenkins and github by configuring a webhook that will trigger a build automatically & define the build trigger
 #step5: push the codes (Jenkinsfile) from vscode to the remote repository
 #step6: if all is properly configured, jenkins will pull the codes and run the pipeline based on the defined build trigger
-#step7: viw the console output for details of the build in case of success or failure.
+#step7: view the console output for details of the build in case of success or failure.
